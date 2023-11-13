@@ -8,14 +8,14 @@ data*
 .netrc
 log.txt
 accounts/*
-Thumbnails/*
 MediaInfo/*
 Images/*
-wcl/*
+Thumbnails/*
+tanha/*
 list_drives.txt
 cookies.txt
 downloads
 bot.session
 user.session
 terabox.txt
-wcl.conf
+rcl.conf
